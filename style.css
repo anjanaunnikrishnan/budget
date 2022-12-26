@@ -1,0 +1,22 @@
+
+
+.calcu{
+    background-image: url(./grey.jpg);
+    width: 350px;
+    height: 500px;
+    border-radius: 55px;
+    border:9px solid black ;
+    padding-left: 15px;
+    padding-top: 2px;
+    margin-left:200px;
+}
+
+h2{
+margin-right: 16px;
+}
+#total{
+    border-radius: 10px;
+    border: 1px ridge black;
+    cursor: pointer;
+    font-size: 20px;
+}
